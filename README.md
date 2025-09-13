@@ -31,7 +31,7 @@
 
 **1. Clone and move to the repository**
 
-    git clone https://github.com/imtimtam/drug-library-website
+    git clone https://github.com/imtimtam/ddi-web
 
 **2. Run with Live Server**
 - Right-click `index.html` and **Open with Live Server**.
