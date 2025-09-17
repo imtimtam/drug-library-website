@@ -1,6 +1,8 @@
 :root{
     --open-sans: "Open Sans";
     --primary-color: #2994b2;
+    --primary-color-hover: #22a7cc;
+    --primary-color-active: #25b6df;
     --secondary-color: #22a7cc;
     --tertiary-color: #fff;
 
