@@ -79,6 +79,7 @@
     color: var(--tertiary-color);
     background-color: var(--primary-color);
     font-family: var(--open-sans), sans-serif;
+    transition: background-color 0.15s;
 }
 .header__sign-in-button:hover{
     background-color: var(--primary-color-hover);

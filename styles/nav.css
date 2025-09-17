@@ -22,4 +22,11 @@
     font-weight: 500;
     color: var(--text-color);
     white-space: nowrap;
+    transition: background-color 0.15s;
+}
+.nav__menu-item:hover{
+    color: var(--primary-color-hover);
+}
+.nav__menu-item:active{
+    color: var(--primary-color-active);
 }
